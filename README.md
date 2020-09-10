@@ -1,9 +1,9 @@
-## Gustavo Ortiz
+## Gustavo Ortiz :brazil:
 ⚡ Welcome to my GitHub profile! ⚡
 
 ### Here's some information about me:
 
-💬 I’m a 20 year old brazilian student who lives in Florianópolis :brazil:.<br>
+💬 I’m a 20 year old brazilian student who lives in Florianópolis.<br>
 💻 Developing web projects with ReactJS and Javascript.<br>
 ⚽ Love to watch and play soccer (and I support Internacional).<br>
 🌎 I want to travel around the world.<br>
