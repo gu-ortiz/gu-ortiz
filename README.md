@@ -1,4 +1,4 @@
-## Gustavo Ortiz :brazil:
+## Gustavo Egert Ortiz :brazil:
 ⚡ Welcome to my GitHub profile! ⚡
 
 ### Here's some information about me:
