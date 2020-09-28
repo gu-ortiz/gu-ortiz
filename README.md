@@ -1,4 +1,4 @@
-## Gustavo Egert Ortiz :brazil: [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/gustavo-egert-ortiz-270013193/) [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/gu.ortiz/) <a href="mailto:gustavo.egert.ortiz@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
+## Gustavo Egert Ortiz :brazil: [<img align="right" src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/gustavo-egert-ortiz-270013193/) [<img align="right" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/gu.ortiz/) <a href="mailto:gustavo.egert.ortiz@gmail.com"> <img align="right" src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
 ⚡ Welcome to my GitHub profile! ⚡
 
 ### Here's some information about me:
