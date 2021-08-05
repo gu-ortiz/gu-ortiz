@@ -3,7 +3,7 @@
 
 ### Here's some information about me:
 
-💬 I’m a 20 years old brazilian student who lives in Florianópolis.<br>
+💬 I’m a 21 years old brazilian student who lives in Florianópolis.<br>
 💻 Developing projects with Javascript and Python.<br>
 ⚽ Love to watch and play soccer (and I support Internacional).<br>
 🌎 I want to travel around the world.<br>
