@@ -1,26 +1,9 @@
-## Gustavo Egert Ortiz :brazil: <a href="mailto:gustavo.egert.ortiz@gmail.com"> <img align="right" src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a> [<img align="right" src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/gustavo-egert-ortiz-270013193/) [<img align="right" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/gu.ortiz/)
-⚡ Welcome to my GitHub profile! ⚡
+# Gustavo Ortiz
 
-### Here's some information about me:
+[![Instagram Badge](https://img.shields.io/badge/-@gu.ortiz-00875f?style=flat-square&labelColor=00875f&logo=instagram&logoColor=white&link=https://www.instagram.com/gu.ortiz)](https://www.instagram.com/gu.ortiz) 
+[![Linkedin Badge](https://img.shields.io/badge/-Gustavo%20Ortiz-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-egert-ortiz-270013193/)](https://www.linkedin.com/in/gustavo-egert-ortiz-270013193/) 
+[![Gmail Badge](https://img.shields.io/badge/-gustavo.egert.ortiz@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavo.egert.ortiz@gmail.com)](mailto:gustavo.egert.ortiz@gmail.com)
 
-💬 I’m a 21 years old brazilian student who lives in Florianópolis.<br>
-💻 Developing projects with Javascript and Python.<br>
-⚽ Love to watch and play soccer (and I support Internacional).<br>
-🌎 I want to travel around the world.<br>
-🌱 Currently working on myself.<br>
-<br>
+Just a 22 years old brazilian student who lives in Florianópolis and wants to travel around the world.
 
-### Programming languages and tools:
-
-[<img align="left" alt="Javascript" width="18px" src="https://simpleicons.org/icons/javascript.svg" />](https://www.javascript.com/)
-[<img align="left" alt="React" width="18px" src="https://simpleicons.org/icons/react.svg" />](https://reactjs.org/)
-[<img align="left" alt="Python" width="18px" src="https://simpleicons.org/icons/python.svg" />](https://www.python.org/)
-[<img align="left" alt="HTML" width="18px" src="https://simpleicons.org/icons/html5.svg" />](https://html5.org/)
-[<img align="left" alt="CSS" width="18px" src="https://simpleicons.org/icons/css3.svg" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img align="left" alt="VSCode" width="18px" src="https://simpleicons.org/icons/visualstudiocode.svg" />](https://https://code.visualstudio.com/)
-[<img align="left" alt="Pycharm" width="18px" src="https://simpleicons.org/icons/pycharm.svg" />](https://www.jetbrains.com/pycharm/)
-[<img align="left" alt="Webstorm" width="18px" src="https://simpleicons.org/icons/webstorm.svg" />](https://www.jetbrains.com/webstorm/)
-[<img align="left" alt="MySQL" width="18px" src="https://simpleicons.org/icons/mysql.svg" />](https://www.mysql.com/)
-[<img align="left" alt="MongoDB" width="18px" src="https://simpleicons.org/icons/mongodb.svg" />](https://www.mongodb.com/)
-[<img align="left" alt="Git" width="18px" src="https://simpleicons.org/icons/git.svg" />](https://git-scm.com/)
-<br>
+JavaScript, TypeScript and Python enthusiast.
